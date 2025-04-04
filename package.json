@@ -1,0 +1,15 @@
+{
+  "name": "login-register",
+  "version": "1.0.0",
+  "main": "login-register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samuel Alejandro",
+  "license": "ISC",
+  "description": "esto es un intento de hacer un inicio de sesión y un registro de los usuarios",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
